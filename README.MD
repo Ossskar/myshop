@@ -1,6 +1,6 @@
-# First Django Project 2-MGV-2
+# myshop Django Project
 
-## Install
+##  инструкции по установке и запуску
 
 ### 1. Установите Python.
 
@@ -9,21 +9,19 @@
 python -m venv venv
 ```
 
-### 3. Активируйте виртуальное окружения
-Для Windows:
+### 3. Активируйте виртуальное окружение
 ```bash
 .\venv\Scripts\activate
 ```
 
 ### 4. Установите зависимости
-Для Windows:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Run
 
-### Для запуска сервера используйте следующую команду:
+### Команда для запуска сервера:
 ```bash
-python .\shop\manage.py runserver
-```
+python .\myshop\manage.py runserver
+```"# myshop"
